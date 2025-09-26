@@ -31,7 +31,6 @@ A comprehensive Java-based E-Learning System with user management, course delive
 
 ## Project Structure
 
-\```
 src/
 ├── models/
 │   ├── User.java           # Abstract base user class
@@ -51,7 +50,7 @@ src/
 ├── ui/
 │   └── ConsoleUI.java      # Console user interface
 └── ELearningSystem.java   # Main application entry point
-\```
+
 
 ## Installation and Setup
 
@@ -185,3 +184,4 @@ Replace `DataPersistence` class with database connectivity:
 - Certificate generation
 - Mobile application support
 - Advanced analytics and reporting
+
